@@ -9,3 +9,7 @@ The Elixir ecosystem data for Elixirland is stored in `ECOSYSTEM.md`. Any change
 ## How do I add a thumbnail for a package or tool?
 
 Thumbnails for ecosystem packages and tools are stored in the `/thumbnails` directory. Any image file in this folder that matches the exact name of a package or tool listed in the `ECOSYSTEM.md` file will automatically be displayed as the thumbnail on the Elixirland website. Currently, only `.webp` files are supported; other file formats will be ignored.
+
+## How do I report an issue?
+
+Spotted an issue? Great. Please open a new issue in this repository. It's appreciated!
