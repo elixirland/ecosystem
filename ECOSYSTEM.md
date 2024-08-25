@@ -56,6 +56,12 @@ LiveView Native allows you to build LiveView apps that have a front-end for mult
 
 [Documentation](https://hexdocs.pm/live_view_native/readme.html)
 
+### Hologram
+
+Hologram is a full stack isomorphic web framework that can be used on top of Phoenix.
+
+[Documentation](https://github.com/bartblast/hologram)
+
 ## Machine Learning
 
 ### Nx
