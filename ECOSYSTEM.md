@@ -124,6 +124,12 @@ A browser automation tool for Elixir, allowing developers to simulate realistic 
 
 [Documentation](https://hexdocs.pm/wallaby/readme.html)
 
+### Mox
+
+Mox is a library for defining concurrent mocks in Elixir.
+
+[Documentation](https://hexdocs.pm/mox/Mox.html)
+
 ## Internationalization and Localization
 
 ### GetText
