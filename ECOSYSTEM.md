@@ -44,7 +44,7 @@ A GraphQL toolkit for Elixir, an implementation of the GraphQL specification bui
 
 ### Hologram
 
-Hologram is a full stack isomorphic web framework that can be used on top of Phoenix.
+Hologram is a full stack isomorphic web framework that can be used on top of the Phoenix Framework.
 
 [Documentation](https://github.com/bartblast/hologram)
 
