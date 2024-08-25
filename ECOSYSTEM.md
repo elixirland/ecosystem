@@ -48,6 +48,20 @@ Hologram is a full stack isomorphic web framework that can be used on top of the
 
 [Documentation](https://github.com/bartblast/hologram)
 
+## Authentication and authorization
+
+### Pow
+
+Pow is a robust, modular, and extendable authentication and user management solution for Phoenix and Plug-based apps.
+
+[Documentation](https://hexdocs.pm/pow/README.html)
+
+### Uberauth
+
+Ueberauth is a two-phase authentication framework that provides a clear API - allowing for many strategies to be created and shared within the community.
+
+[Documentation](https://hexdocs.pm/ueberauth/readme.html)
+
 ## Native Applications
 
 ### Scenic
